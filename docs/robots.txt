@@ -1,1 +1,1 @@
-Sitemap: https://neilfws.github.io/SecondarySuccession/sitemap.xml
+Sitemap: https://neilfws.github.io/sitemap.xml
