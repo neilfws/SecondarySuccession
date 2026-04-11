@@ -1,0 +1,30 @@
+baseURL = 'https://www.secondarysuccession.net/'
+locale = 'en-AU'
+title = 'Secondary Succession'
+theme = 'ananke'
+
+[[menu.main]]
+    name = "Home"
+    pageRef = "/"
+    weight = 10
+
+[[menu.main]]
+    name = "Posts"
+    pageRef = "/posts"
+    weight = 20
+
+[[menu.main]]
+    name = "Categories"
+    pageRef = "/categories"
+    weight = 30
+
+[[menu.main]]
+    name = "Tags"
+    pageRef = "/tags"
+    weight = 40
+
+[[menu.main]]
+    name = "About"
+    pageRef = "/pages/about"
+    weight = 50
+

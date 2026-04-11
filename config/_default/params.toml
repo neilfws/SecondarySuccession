@@ -1,0 +1,33 @@
+custom_css = ["custom.css"]
+
+[ananke.social.networks.inaturalist]
+slug = "inaturalist"
+label = "iNaturalist"
+color = "#ffffff"
+profile = "https://www.inaturalist.org/people/%s"
+icon = "inaturalist"
+
+[ananke.social.follow]
+new_window_icon = false
+networks = [
+    "twitter",
+    "github",
+    "linkedin",
+    "stackoverflow",
+    "inaturalist"
+]
+
+[ananke.social.twitter]
+username = "neilfws"
+
+[ananke.social.github]
+username = "neilfws"
+
+[ananke.social.linkedin]
+username = "nfwsaunders"
+
+[ananke.social.stackoverflow]
+username = "89482"
+
+[ananke.social.inaturalist]
+username = "neilfws"
