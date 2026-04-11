@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/neilsaunders/Documents/website_testing/hugo/SecondarySuccession",
+	"sourceRoot": "/Users/neilsaunders/Library/CloudStorage/Dropbox/projects/github_projects/SecondarySuccession",
 	"sources": [
 		"ananke/css/main.css"
 	],

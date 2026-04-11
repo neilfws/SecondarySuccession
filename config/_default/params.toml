@@ -1,5 +1,7 @@
 custom_css = ["custom.css"]
 
+favicon = "favicon.ico"
+
 [ananke.social.networks.inaturalist]
 slug = "inaturalist"
 label = "iNaturalist"
