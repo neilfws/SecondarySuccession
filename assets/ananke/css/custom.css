@@ -13,3 +13,16 @@
 .fw1 {
     font-weight: 300;
 }
+
+a:link, a:visited, a:hover, a:active {
+  text-decoration: none;
+}
+
+.f4 {
+    font-family: avenir next,avenir,sans-serif !important;
+    font-size: 1.2rem;
+}
+
+.f1 {
+    font-family: avenir next,avenir,sans-serif;
+}

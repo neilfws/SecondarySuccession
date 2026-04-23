@@ -6,6 +6,6 @@ description = 'New growth on old soil'
 hidden = true
 +++
 
-No posts yet! Check back very soon.
+a tentative beginning...
 
 ![](/images/resize_b_serrulata.jpg)

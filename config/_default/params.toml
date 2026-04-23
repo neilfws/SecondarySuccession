@@ -2,6 +2,8 @@ custom_css = ["custom.css"]
 
 favicon = "favicon.ico"
 
+mainSections = ['posts']
+
 [ananke.social.networks.inaturalist]
 slug = "inaturalist"
 label = "iNaturalist"
