@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weeds on Secondary Succession</title>
+    <link>http://localhost:1313/tags/weeds/</link>
+    <description>Recent content in Weeds on Secondary Succession</description>
+    <generator>Hugo</generator>
+    <language>en-AU</language>
+    <lastBuildDate>Thu, 23 Apr 2026 14:30:00 +1000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/weeds/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On Weeds</title>
+      <link>http://localhost:1313/posts/on-weeds/</link>
+      <pubDate>Thu, 23 Apr 2026 14:30:00 +1000</pubDate>
+      <guid>http://localhost:1313/posts/on-weeds/</guid>
+      <description>&lt;p&gt;I guess we&amp;rsquo;d better start somewhere - so why not start with &lt;a href=&#34;https://weeds.dpi.nsw.gov.au/Weed/CroftonWeed&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Ageratina adenophora&lt;/em&gt;&lt;/a&gt; - commonly known in Australia as Crofton weed.&lt;/p&gt;&#xA;&lt;p&gt;To be clear, the genteel English definition of &amp;ldquo;weed&amp;rdquo; as &amp;ldquo;a plant growing in the wrong place&amp;rdquo; does not apply in the Australian native garden. I use &amp;ldquo;weed&amp;rdquo; as shorthand for &amp;ldquo;environmental weed&amp;rdquo; - introduced/exotic/non-native and potentially invasive and damaging to ecosystems. To be terminated where possible, as the movie quote goes, with extreme prejudice.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
