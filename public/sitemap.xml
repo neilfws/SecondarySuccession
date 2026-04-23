@@ -2,34 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.secondarysuccession.net/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2026-04-23T14:30:00+10:00</lastmod>
   </url><url>
-    <loc>https://www.secondarysuccession.net/tags/invasive-species/</loc>
+    <loc>http://localhost:1313/tags/invasive-species/</loc>
     <lastmod>2026-04-23T14:30:00+10:00</lastmod>
   </url><url>
-    <loc>https://www.secondarysuccession.net/categories/native-gardening/</loc>
+    <loc>http://localhost:1313/categories/native-gardening/</loc>
     <lastmod>2026-04-23T14:30:00+10:00</lastmod>
   </url><url>
-    <loc>https://www.secondarysuccession.net/posts/on-weeds/</loc>
+    <loc>http://localhost:1313/posts/on-weeds/</loc>
     <lastmod>2026-04-23T14:30:00+10:00</lastmod>
   </url><url>
-    <loc>https://www.secondarysuccession.net/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2026-04-23T14:30:00+10:00</lastmod>
   </url><url>
-    <loc>https://www.secondarysuccession.net/tags/revegetation/</loc>
+    <loc>http://localhost:1313/tags/revegetation/</loc>
     <lastmod>2026-04-23T14:30:00+10:00</lastmod>
   </url><url>
-    <loc>https://www.secondarysuccession.net/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-04-23T14:30:00+10:00</lastmod>
   </url><url>
-    <loc>https://www.secondarysuccession.net/tags/weeds/</loc>
+    <loc>http://localhost:1313/tags/weeds/</loc>
     <lastmod>2026-04-23T14:30:00+10:00</lastmod>
   </url><url>
-    <loc>https://www.secondarysuccession.net/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2026-04-09T13:36:00+10:00</lastmod>
   </url><url>
-    <loc>https://www.secondarysuccession.net/pages/</loc>
+    <loc>http://localhost:1313/pages/</loc>
     <lastmod>2026-04-09T12:53:25+10:00</lastmod>
   </url>
 </urlset>

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Secondary Succession</title>
-    <link>https://www.secondarysuccession.net/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Secondary Succession</description>
     <generator>Hugo</generator>
     <language>en-AU</language>
     <lastBuildDate>Thu, 23 Apr 2026 14:30:00 +1000</lastBuildDate>
-    <atom:link href="https://www.secondarysuccession.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Invasive Species</title>
-      <link>https://www.secondarysuccession.net/tags/invasive-species/</link>
+      <link>http://localhost:1313/tags/invasive-species/</link>
       <pubDate>Thu, 23 Apr 2026 14:30:00 +1000</pubDate>
-      <guid>https://www.secondarysuccession.net/tags/invasive-species/</guid>
+      <guid>http://localhost:1313/tags/invasive-species/</guid>
       <description></description>
     </item>
     <item>
       <title>Revegetation</title>
-      <link>https://www.secondarysuccession.net/tags/revegetation/</link>
+      <link>http://localhost:1313/tags/revegetation/</link>
       <pubDate>Thu, 23 Apr 2026 14:30:00 +1000</pubDate>
-      <guid>https://www.secondarysuccession.net/tags/revegetation/</guid>
+      <guid>http://localhost:1313/tags/revegetation/</guid>
       <description></description>
     </item>
     <item>
       <title>Weeds</title>
-      <link>https://www.secondarysuccession.net/tags/weeds/</link>
+      <link>http://localhost:1313/tags/weeds/</link>
       <pubDate>Thu, 23 Apr 2026 14:30:00 +1000</pubDate>
-      <guid>https://www.secondarysuccession.net/tags/weeds/</guid>
+      <guid>http://localhost:1313/tags/weeds/</guid>
       <description></description>
     </item>
   </channel>
