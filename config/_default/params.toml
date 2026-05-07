@@ -1,5 +1,7 @@
 custom_css = ["custom.css"]
 
+dateFormat = "Jan 02 2006"
+
 favicon = "favicon.ico"
 
 mainSections = ['posts']
