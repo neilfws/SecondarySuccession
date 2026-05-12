@@ -23,7 +23,7 @@ theme = 'ananke'
 
 [[menu.main]]
     name = "Posts"
-    pageRef = "/posts"
+    pageRef = "/post"
     weight = 20
 
 [[menu.main]]
