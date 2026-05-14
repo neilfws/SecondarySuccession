@@ -38,6 +38,6 @@ theme = 'ananke'
 
 [[menu.main]]
     name = "About"
-    pageRef = "/pages/about"
+    pageRef = "/page/about"
     weight = 50
 

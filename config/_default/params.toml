@@ -4,7 +4,7 @@ dateFormat = "Jan 02 2006"
 
 favicon = "favicon.ico"
 
-mainSections = ['post']
+mainSections = ['post', 'page']
 
 [ananke.social.networks.inaturalist]
 slug = "inaturalist"
