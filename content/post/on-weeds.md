@@ -8,6 +8,10 @@ tags = ['weeds', 'invasive species', 'revegetation']
 
 I guess we'd better start somewhere - so why not start with [_Ageratina adenophora_](https://weeds.dpi.nsw.gov.au/Weed/CroftonWeed) - commonly known in Australia as Crofton weed.
 
+<div align="center">
+  <img src="/images/crofton.jpg" width="756" />
+</div>
+
 To be clear, the genteel English definition of "weed" as "a plant growing in the wrong place" does not apply in the Australian native garden. I use "weed" as shorthand for "environmental weed" - introduced/exotic/non-native and potentially invasive and damaging to ecosystems. To be terminated where possible, as the movie quote goes, with extreme prejudice.
 
 Our current (and so far only - quite possibly for ever) property was described by the real estate agent, some 15 years ago as being "surrounded by natural bush land, but with level lawn and cleared garden". That was certainly true, and I am grateful for the bushland setting each and every day. The interesting part is the "cleared garden".
