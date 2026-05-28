@@ -2,6 +2,8 @@
 date = '2026-05-15T12:00:00+10:00'
 draft = false
 title = "Lewin's Birds of New South Wales"
+categories = ['Birds of Australia']
+tags = ['birds', 'lewin', 'history', 'conservation', 'regent honeyeater', 'art']
 +++
 
 John William Lewin (1770 - 1819) lends his name to two birds. I hear one, the Lewin's honeyeater, almost daily from the bushland at the bottom of the yard.
