@@ -22,22 +22,7 @@ theme = 'ananke'
     weight = 10
 
 [[menu.main]]
-    name = "Posts"
-    pageRef = "/post"
-    weight = 20
-
-[[menu.main]]
-    name = "Categories"
-    pageRef = "/categories"
-    weight = 30
-
-[[menu.main]]
-    name = "Tags"
-    pageRef = "/tags"
-    weight = 40
-
-[[menu.main]]
     name = "About"
     pageRef = "/page/about"
-    weight = 50
+    weight = 20
 

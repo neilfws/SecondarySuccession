@@ -16,15 +16,15 @@ icon = "inaturalist"
 [ananke.social.follow]
 new_window_icon = false
 networks = [
-    "twitter",
+#    "twitter",
+    "inaturalist",
     "github",
-    "linkedin",
     "stackoverflow",
-    "inaturalist"
+    "linkedin"
 ]
 
-[ananke.social.twitter]
-username = "neilfws"
+#[ananke.social.twitter]
+#username = "neilfws"
 
 [ananke.social.github]
 username = "neilfws"
