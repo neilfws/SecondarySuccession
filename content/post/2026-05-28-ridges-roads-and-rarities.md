@@ -12,7 +12,7 @@ A little to the east of my bushland suburb, somewhat less steep-sided ridges hav
   <img src="/images/mona_vale.png">
 </div>
 
-Great for humans - but what if there were a rare plant that grew only along those specific ridges? Incredibly, there is. Meet Caley's Grevillea.
+Great for humans - but what if there were a rare plant that grew only along those specific ridges? There is and it's called Caley's Grevillea.
 
 <!--more-->
 
