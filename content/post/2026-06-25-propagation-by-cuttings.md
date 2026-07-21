@@ -67,7 +67,7 @@ Speaking of waiting...
 
 ### Patience
 
-...patience really is the key to propagation. There's little point in looking at them every day, or even every week and expecting to see progress. By all means look at them for enjoyment of course.
+...patience really is the key to propagation. There's little point in looking at cuttings every day, or even every week and expecting to see progress. By all means look at them for enjoyment of course.
 
 Set them up, then put a recurring reminder at set intervals in your calendar. Four weeks minimum for quick-rooting species in summer. Six, even eight is better. There's plenty of other things to do in the meantime.
 
